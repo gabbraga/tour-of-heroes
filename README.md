@@ -1,4 +1,5 @@
-# TourOfHeroes
+# Angular Tour of Heroes
+Following the Angular Tour of Heroes tutorial project to learn and practice Angular concepts.
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 13.0.1.
 
