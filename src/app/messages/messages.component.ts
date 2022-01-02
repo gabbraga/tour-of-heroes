@@ -1,3 +1,4 @@
+/* This component displays the list of messages from the Message Service */
 import { Component, OnInit } from '@angular/core';
 import { MessageService } from '../message.service';
 
