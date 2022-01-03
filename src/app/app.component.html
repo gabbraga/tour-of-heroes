@@ -1,4 +1,9 @@
+<!-- display the app home page with navigation links for the Dashboard and Heroes components -->
 <h1>{{ title }}</h1>
+<nav>
+    <a routerLink="/dashboard">Dashboard</a>
+    <a routerLink="/heroes">Heroes</a>
+</nav>
 <!-- <router-outlet> tells the router where to display routed views -->
 <router-outlet></router-outlet>
 <app-messages></app-messages>
